@@ -28,7 +28,7 @@ Follow these steps to do so:
     secret values from the previous step into their respective fields, then 
     click *Update*. 
 
-    ![Figure 1: Enter your Google project's OAuth 2 client ID and client secret.](../../../images/google-drive-system-settings.png)
+    ![Figure 1: Enter your Google project's OAuth 2 client ID and client secret.](../../../../images/google-drive-system-settings.png)
 
 That's it! Now your users can create and edit Documents and Media files online 
 via Google Docs. Note that if you want to disable this feature, you can delete 

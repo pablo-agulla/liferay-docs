@@ -24,7 +24,7 @@ Follow these steps to create a new Documents and Media file via Google Docs:
     file. For more information, see the section below on 
     [multiple editing sessions](liferay.com). 
 
-    ![Figure 1: Select the type of Google document you want to create.](../../../images/google-docs-new.png)
+    ![Figure 1: Select the type of Google document you want to create.](../../../../images/google-docs-new.png)
 
 3.  Use the Google Docs editor to create your document's content. Except for 
     sharing, all Google Docs features are available for you to use. 
@@ -52,7 +52,7 @@ Follow these steps to create a new Documents and Media file via Google Docs:
     section below on 
     [multiple editing sessions](liferay.com). 
 
-    ![Figure 2: Save or discard your changes using the toolbar at the top of the Google Docs editor.](../../../images/google-docs-save-discard.png)
+    ![Figure 2: Save or discard your changes using the toolbar at the top of the Google Docs editor.](../../../../images/google-docs-save-discard.png)
 
 ## Editing Files
 
@@ -76,7 +76,7 @@ Follow these steps to edit a Documents and Media file in Google Docs:
     the file in @product@, transfers its content to a new file in Google Docs, 
     and redirects you to that Google Docs file. 
 
-    ![Figure 3: Select *Edit in Google Docs* from the file's Actions menu.](../../../images/google-docs-edit.png)
+    ![Figure 3: Select *Edit in Google Docs* from the file's Actions menu.](../../../../images/google-docs-edit.png)
 
 3.  Edit the file in Google Docs. The editing process is exactly the same as 
     described above for creating files. 
