@@ -1,4 +1,4 @@
-# Configuring Google Docs Integration
+# Configuring Google Docs Integration [](id=configuring-google-docs-integration)
 
 Before you can use Google Docs to create and edit Documents and Media Library 
 files, you must configure @product@ to connect with an application in the 
@@ -34,5 +34,5 @@ That's it! Now your users can create and edit Documents and Media files online
 via Google Docs. Note that if you want to disable this feature, you can delete 
 the client ID and client secret values from the form in the last step. 
 
-## Related Topics
+## Related Topics [](id=related-topics)
 
