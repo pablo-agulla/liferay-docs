@@ -1,15 +1,15 @@
-# Online File Creation and Editing with Google Docs [](id=online-file-creation-and-editing-with-google-docs)
+# Online File Creation and Editing with Google Docs™ [](id=online-file-creation-and-editing-with-google-docs)
 
 Although you can 
-[create](/discover/portal/-/knowledge_base/7-2/adding-files-to-a-document-library#using-the-add-menu) 
+[add](/discover/portal/-/knowledge_base/7-2/adding-files-to-a-document-library#using-the-add-menu) 
 and 
 [edit](/discover/portal/-/knowledge_base/7-2/checking-out-and-editing-files) 
-files by uploading them to and downloading them from your site's Documents and 
-Media Library, @product@ doesn't contain a UI that lets you author or edit 
-documents directly inside the portal. You can, however, create and edit files 
-online in Google Docs. The articles in this section explain how to do this. 
+Documents and Media files via upload and download, @product@ doesn't contain a 
+UI that lets you author or edit documents directly inside the portal. You can, 
+however, create and edit Documents and Media files online in Google Docs&trade;. 
+The articles in this section explain how. 
 
-Note that when you use Google Docs to create or edit a file in the Documents and 
-Media Library, your file isn't permanently stored in Google Docs. Google Docs is 
-only used for its editing UI. Your edits are then saved to the Documents and 
-Media Library. 
+Note that when you use Google Docs&trade; to create or edit a Documents and 
+Media file, that file isn't permanently stored in Google Docs&trade;. Google 
+Docs&trade; is only used for its editing UI. Your edits are then saved to the 
+Documents and Media Library. 
